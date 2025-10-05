@@ -113,24 +113,7 @@ Developed as part of the **Software Engineering Course Project**, this system de
 This project was developed as part of the **Software Engineering** course at **PES University**, under the guidance of **Dr Jayashree R**.
 It follows structured software engineering principles including SDLC, modular architecture, and rigorous testing.
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots of your login page, dashboard, and reports once available)*
-
----
-
 ## 📄 License
 
 This project is for **academic and learning purposes only**.
 © 2025 Automated Appraisal System Team. All rights reserved.
-
----
-
-```
-
----
-
-Would you like me to make a **version with aesthetic badges** (GitHub stars, tech logos, shields.io badges like “Made with ❤️ in Python” etc.) for a more **portfolio-worthy look**?
-```
